@@ -1,0 +1,15 @@
+class HelloWorld {
+    public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("Hello, World!   Added from branch1"); 
+=======
+        System.out.println("Hello, World!" Added from branch2); 
+>>>>>>> branch2
+    }
+}
+
+
+/*
+this is comment
+*******
+*/
